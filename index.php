@@ -73,10 +73,10 @@
 				<!-- Footer -->
 					<section id="footer">
 						<div class="inner">
-							<h2 class="major">Get in touch</h2>
-							<p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
+							<h2 class="major">Contact info</h2>
+							<p>In case you need to get in touch, thou shall do so via <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#104;&#117;&#100;&#100;&#101;&#108;&#101;&#105;&#64;&#104;&#117;&#109;&#105;&#103;&#97;&#119;&#97;&#46;&#100;&#101;">&#104;&#117;&#100;&#100;&#101;&#108;&#101;&#105;&#64;&#104;&#117;&#109;&#105;&#103;&#97;&#119;&#97;&#46;&#100;&#101;</a>.</p>
 							<ul class="copyright">
-								<li>&copy; HuMiGaWa 2024-<?php echo date("Y"); ?></li><li>Template: <a href="http://html5up.net" target="_blank">HTML5 UP</a></li>
+								<li>&copy; HuMiGaWa 2024-<?php echo date("Y"); ?></li><li>Template: <a href="https://html5up.net/solid-state" target="_blank">HTML5 UP</a></li>
 							</ul>
 						</div>
 					</section>
@@ -90,6 +90,5 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
 	</body>
 </html>
